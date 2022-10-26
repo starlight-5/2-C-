@@ -127,7 +127,6 @@
 //         scanf("%d", &n);
 //         printf("%d\n", arr[k][n - 1]);
 //     }
-
 //     return 0;
 // }
 
